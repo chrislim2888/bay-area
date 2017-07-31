@@ -13,7 +13,7 @@ Despite the usage for IP2Location, this list could also be used for any solution
 
 You may visit [https://en.wikipedia.org/wiki/San_Francisco_Bay_Area](https://en.wikipedia.org/wiki/San_Francisco_Bay_Area) to learn more about the bay area.
 
-# Import to MySQL Table
+# Import into MySQL Table
 
 Below are the syntax on how to import the *bay_area.csv* data into a MySQL table.
 
