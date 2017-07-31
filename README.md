@@ -11,6 +11,8 @@ The cities name list inside the list are compatible to cities name used in [IP2L
 
 Despite the usage for IP2Location, this list could also be used for any solution any way you want.
 
+You may visit [https://en.wikipedia.org/wiki/San_Francisco_Bay_Area](https://en.wikipedia.org/wiki/San_Francisco_Bay_Area) to learn more about the bay area.
+
 # Correction
 
 Please feedback in the issues for any data correction.
