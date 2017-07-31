@@ -1,5 +1,5 @@
 # List of Bay Area Cities
-The bay-area.csv contains the list of cities grouped in bay area. Below are the bay areas grouping
+The bay-area.csv contains the list of cities grouped in San Francisco bay area. Below are the bay areas grouping
 
 * Outer Bay
 * East Bay
